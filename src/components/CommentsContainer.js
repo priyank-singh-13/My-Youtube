@@ -3,17 +3,17 @@ import CommentsList from "./CommentsList";
 
 const commentsData = [
   {
-    name: "Daksh Pandey",
+    name: "Priyank Singh",
     text: "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
     replies: [
       {
-        name: "Daksh Pandey",
-        email: "daksh123@.com",
+        name: "Priyank Singh",
+        email: "priyank123@gmail.com",
         text: "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
         replies: [
           {
             name: "quo vero reiciendis velit similique earum",
-            email: "daksh123@.com",
+            email: "priyank123@gmail.com",
             text: "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
             replies: [
               {
@@ -28,8 +28,8 @@ const commentsData = [
     ],
   },
   {
-    name:"Daksh Pandey",
-    email: "daksh123@.com",
+    name:"Priyank Singh",
+    email: "priyank123@gmail.com",
     text: "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
   },
   {
